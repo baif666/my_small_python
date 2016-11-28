@@ -1,2 +1,2 @@
 # my_work
-My small python project
+My small python projects
